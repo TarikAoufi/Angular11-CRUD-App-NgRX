@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 2800,
+      "quantity": 30,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Smart phone",
+      "price": 1200,
+      "quantity": 50,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Sony TV",
+      "price": 4500,
+      "quantity": 80,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Printer",
+      "price": 800,
+      "quantity": 20,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Xbox",
+      "price": 1500,
+      "quantity": 130,
+      "selected": false,
+      "available": false
+    },
+    {
+      "name": "cdww",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 6
+    }
+  ]
+}
