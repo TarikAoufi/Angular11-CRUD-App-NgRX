@@ -6,7 +6,7 @@ Dans cette démo, on gère :
 
 - L'utilisation de NgRx Store, qui fournit une gestion réactive de l'état d'une application Angular inspirée de Redux. 
 
-Il stocke l'état de l'application (State) dans un objet (Store).
+  Il stocke l'état de l'application (State) dans un objet (Store).
 
 - Infos:
 
