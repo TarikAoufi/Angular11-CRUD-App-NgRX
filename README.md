@@ -11,7 +11,7 @@ Dans cette démo, on gère :
 
 
 
-Infos:
+Infos: 
 
       - On utilise la commande : npm start , pour lancer simultanément 'ng serve' et 'json-server --watch db.json'
 
