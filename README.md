@@ -10,7 +10,7 @@ Dans cette démo, on gère :
 - La communication entre les composants via NgRx
 
 
-
+ 
 Infos: 
 
       - On utilise la commande : npm start , pour lancer simultanément 'ng serve' et 'json-server --watch db.json'
